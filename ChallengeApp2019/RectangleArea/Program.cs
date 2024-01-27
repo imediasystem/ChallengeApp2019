@@ -16,8 +16,10 @@ namespace RectangleArea
 
             pole = a * b;
 
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.Write("Pole prostokąta o boku a = {0} i boku b = {1}", a, b);
             Console.WriteLine(" wynosi {0}.", pole);
+            Console.ResetColor();
         }
     }
 }
