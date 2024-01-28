@@ -11,7 +11,9 @@ namespace FahrenheitCelsiusRecalculation
             Console.WriteLine("Podaj temperaturę w stopniach Fahrenheita");
             F = double.Parse(Console.ReadLine());
             C = 5d / 9d * (F - 32);
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Temperatura w stopniach Celsjusza wynosi {1:##}", F, C);
+            Console.ResetColor();
         }
     }
 }
