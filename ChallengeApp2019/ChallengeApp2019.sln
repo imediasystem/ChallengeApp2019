@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiNumber", "PiNumber\PiNumb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqrtPI", "SqrtPI\SqrtPI.csproj", "{D2A642C8-E9A6-4B55-A037-61EE9E63E901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfTheBall", "VolumeOfTheBall\VolumeOfTheBall.csproj", "{2CED30B4-5CC7-494A-9855-3B5CCC501924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolumeOfTheBall", "VolumeOfTheBall\VolumeOfTheBall.csproj", "{2CED30B4-5CC7-494A-9855-3B5CCC501924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrenheitCelsiusRecalculation", "FahrenheitCelsiusRecalculation\FahrenheitCelsiusRecalculation.csproj", "{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrenheitCelsiusRecalculation", "FahrenheitCelsiusRecalculation\FahrenheitCelsiusRecalculation.csproj", "{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTriple", "PythagoreanTriple\PythagoreanTriple.csproj", "{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
