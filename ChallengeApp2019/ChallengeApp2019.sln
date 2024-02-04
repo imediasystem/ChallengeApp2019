@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolumeOfTheBall", "VolumeOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrenheitCelsiusRecalculation", "FahrenheitCelsiusRecalculation\FahrenheitCelsiusRecalculation.csproj", "{FB65DFB3-3243-4BEC-AD43-4608BD32EDC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTriple", "PythagoreanTriple\PythagoreanTriple.csproj", "{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PythagoreanTriple", "PythagoreanTriple\PythagoreanTriple.csproj", "{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadaticEquation", "QuadaticEquation\QuadaticEquation.csproj", "{863A0307-23C5-401A-8406-C763FB8EEF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2B08E12-66C9-41EA-89BD-0C8BC02534F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A0307-23C5-401A-8406-C763FB8EEF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A0307-23C5-401A-8406-C763FB8EEF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A0307-23C5-401A-8406-C763FB8EEF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A0307-23C5-401A-8406-C763FB8EEF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
