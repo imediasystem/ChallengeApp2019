@@ -3,3 +3,4 @@ Proste programy do obliczeń matematycznych:
 - PiNumber
 - PythagoreanTriple
 - QuadaticEquation
+- RectangleArea
