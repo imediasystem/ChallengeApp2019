@@ -1,4 +1,5 @@
-Proste programy do obliczeń matematycznych
+Proste programy do obliczeń matematycznych:
 - FahrenheitCelsiusRecalculation
 - PiNumber
 - PythagoreanTriple
+- QuadaticEquation
