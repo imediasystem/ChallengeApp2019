@@ -1,4 +1,4 @@
-Proste programy do obliczeń matematycznych:
+Simple programs for maths calculations:
 - FahrenheitCelsiusRecalculation
 - PiNumber
 - PythagoreanTriple
