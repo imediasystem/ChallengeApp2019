@@ -4,3 +4,4 @@ Proste programy do obliczeń matematycznych:
 - PythagoreanTriple
 - QuadaticEquation
 - RectangleArea
+- SqrtPI
