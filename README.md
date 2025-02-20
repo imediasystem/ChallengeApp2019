@@ -1,4 +1,4 @@
-## 🔥 Project Name - CHALLENGEAPP2022
+## 🔥 Project Name - CHALLENGEAPP2019
 
 Simple programs for maths calculations:
 - FahrenheitCelsiusRecalculation
